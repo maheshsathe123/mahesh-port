@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: rgb(8, 8, 8);
 }
 
 a {
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #1dc030;
+  background: #a7f736;
   color: #fff;
 }
 
@@ -136,7 +136,7 @@ h6 {
 	bottom: -5px;
 	width: 30px;
 	height: 10px;
-	background: #01ff16;
+	background: #81bdd6;
 	border-radius: 10px;
 	transition: 0.5s;
 	transition-delay: 0.5;
@@ -313,7 +313,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #1dc030;
+  background: #defb03;
 }
 
 .nav-menu a:hover span,
